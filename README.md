@@ -3,7 +3,7 @@ About lance-namespace-urllib3-client-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/lance-namespace-urllib3-client-feedstock/blob/main/LICENSE.txt)
 
-Home: https://pypi.org/project/lance-namespace-urllib3-client/
+Home: https://pypi.org/project/lance-namespace-urllib3-client
 
 Package license: Apache-2.0
 
@@ -18,7 +18,9 @@ Current build status
 <table><tr>
     <td>All platforms:</td>
     <td>
-      <img src="https://img.shields.io/badge/noarch-disabled-lightgrey.svg" alt="noarch disabled">
+      <a href="https://github.com/conda-forge/lance-namespace-urllib3-client-feedstock/actions/workflows/conda-build.yml">
+        <img src="https://github.com/conda-forge/lance-namespace-urllib3-client-feedstock/actions/workflows/conda-build.yml/badge.svg?event=push&branch=main">
+      </a>
     </td>
   </tr>
 </table>
